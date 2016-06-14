@@ -1,0 +1,99 @@
+SOLDEPTH=17
+clocks per sec 1000000
+------------------
+BFS 
+goal state found at depth: 13
+Nodes Expanded : 4169
+Nodes Generated : 7240
+Max Depth Reached : 14
+Memory Consumed : 3072
+Computation Time : 220000.000000
+
+DFS
+goal state found at depth: 17
+Nodes Expanded : 32944
+Nodes Generated : 32953
+Max Depth Reached : 18
+Memory Consumed : 17
+Computation Time : 10000.000000
+
+GBEFS
+goal state found at depth: 13
+Nodes Expanded : 42090
+Nodes Generated : 42288
+Max Depth Reached : 18
+Memory Consumed : 1088
+Computation Time : 30000.000000
+
+A*
+goal state found at depth: 13
+Nodes Expanded : 133
+Nodes Generated : 223
+Max Depth Reached : 13
+Memory Consumed : 91
+Computation Time : 0.000000
+
+A* Manhattan 
+goal state found at depth: 13
+Nodes Expanded : 22
+Nodes Generated : 37
+Max Depth Reached : 13
+Memory Consumed : 16
+Computation Time : 0.000000
+
+IDA*
+goal state found at depth: 13
+Nodes Expanded : 133
+Nodes Generated : 222
+Max Depth Reached : 13
+Memory Consumed : 90
+Computation Time : 0.000000
+
+
+
+
+Soldepth,w-----------------------
+3   0.0 0.1 0.2 0.3 0.4 0.5 0.6 0.7 0.8 0.9 1.0
+
+
+
+
+
+4   
+
+
+
+
+
+5   
+
+
+
+
+
+6   
+
+
+
+
+
+7   
+
+
+
+
+
+8   
+
+
+
+
+
+9
+
+
+
+
+
+10
+
